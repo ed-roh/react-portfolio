@@ -1,6 +1,6 @@
 import Navbar from "./scenes/Navbar";
 import Landing from "./scenes/Landing";
-import DotGroup from "./scenes/DotGroup";
+import DotGroup from "./components/DotGroup";
 import MySkills from "./scenes/MySkills";
 import LineGradient from "./components/LineGradient";
 import Projects from "./scenes/Projects";

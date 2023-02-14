@@ -40,12 +40,13 @@ Additionally, I possess the following soft skills:
             >
               <img
                 alt="skills"
-                className="z-10"
-                src="assets/skills-image.png"
+                className="z-10 h-40"
+                // src="assets/skills.gif"
+                src="https://institute.careerguide.com/wp-content/uploads/2020/11/coach-goodhabitz-wevoke-dribbble-01.gif"
               />
             </div>
           ) : (
-            <img alt="skills" className="z-10" src="assets/skills-image.png" />
+            <img alt="skills" className="z-10" src="https://institute.careerguide.com/wp-content/uploads/2020/11/coach-goodhabitz-wevoke-dribbble-01.gif" />
           )}
         </div>
       </div>
