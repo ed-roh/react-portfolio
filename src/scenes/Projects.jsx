@@ -58,9 +58,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-          fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-          purus nec eget eleifend ut elit.
+        Experience with my front, back & full stack projects.
         </p>
       </motion.div>
 
@@ -82,11 +80,6 @@ const Projects = () => {
           </div>
           <Project title="Project 1" />
           <Project title="Project 2" />
-
-          {/* ROW 2 */}
-          <Project title="Project 3" />
-          <Project title="Project 4" />
-          <Project title="Project 5" />
 
           {/* ROW 3 */}
           <Project title="Project 6" />

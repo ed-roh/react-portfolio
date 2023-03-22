@@ -24,8 +24,11 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          . Gain a solid understanding of the MERN stack (MongoDB, Express, React, Node JS)
+There are various frameworks that I have learned on my own or through the course, such as:
+Styled Components, Boostrap, MUI, MDB, Chackra UI, TypeScript,
+Github, Trello, Slack, Miro...
+Additionally, I possess the following soft skills:
           </p>
         </motion.div>
 
@@ -37,12 +40,13 @@ const MySkills = () => {
             >
               <img
                 alt="skills"
-                className="z-10"
-                src="assets/skills-image.png"
+                className="z-10 h-40"
+                // src="assets/skills.gif"
+                src="https://institute.careerguide.com/wp-content/uploads/2020/11/coach-goodhabitz-wevoke-dribbble-01.gif"
               />
             </div>
           ) : (
-            <img alt="skills" className="z-10" src="assets/skills-image.png" />
+            <img alt="skills" className="z-10" src="https://institute.careerguide.com/wp-content/uploads/2020/11/coach-goodhabitz-wevoke-dribbble-01.gif" />
           )}
         </div>
       </div>
@@ -65,15 +69,16 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Experience
+              Troubleshooting
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+          The challenge excites me,
+Always strives to improve my writing skills and consider resources when coding.
+Interested in understanding how things work behind the scenes and how algorithms work.
+Have self-taught skills and reads documentation.
           </p>
         </motion.div>
 
@@ -93,7 +98,7 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Innovative
+              Team Player
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
@@ -121,7 +126,7 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Imaginative
+              Creativity
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
